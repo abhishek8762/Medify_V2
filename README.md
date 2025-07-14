@@ -4,13 +4,9 @@
 
 Medify is a React-based web application that allows users to find medical centers in specific states and cities across the USA and book appointments. This project was developed as part of a front-end developer assignment to showcase skills in React development, API integration, and responsive design.
 
-## Site Preview
-
-![Medify Site Screenshot](https://raw.githubusercontent.com/milindkusahu/medify/refs/heads/main/Medify%20Slot%20Booking%20Demo.png)
-
 ## Live Demo
 
-[View the live application](https://medify-three-puce.vercel.app/)
+[View the live application](https://medify-v2-psi.vercel.app/)
 
 ## Features
 
@@ -33,7 +29,7 @@ Medify is a React-based web application that allows users to find medical center
 
 1. Clone the repository:
    ```
-   git clone https://github.com/milindkusahu/medify.git
+   git clone https://github.com/abhishek8762/Medify_V2.git
    ```
 2. Navigate to the project directory:
    ```
@@ -58,11 +54,7 @@ The application integrates with the following backend endpoints:
 
 ## Deployment
 
-This project is deployed on Vercel. The live version can be accessed [here](https://medify-three-puce.vercel.app/).
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/milindkusahu/medify/issues) if you want to contribute.
+This project is deployed on Vercel. The live version can be accessed [here](https://medify-v2-psi.vercel.app/).
 
 ## License
 
@@ -71,4 +63,4 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 ## Acknowledgements
 
 - Assignment provided by Crio
-- Design inspiration from provided [Figma file](https://www.figma.com/file/BLZw4DOia4hXyqt8X1Yuyl/Desktop-Designs-%3A-Healthcare-Consultation-(Community)?type=design&node-id=0-1&mode=design&t=VgPv59eyp8F6dTev-0)
+- Design inspiration from provided [Figma file](<https://www.figma.com/file/BLZw4DOia4hXyqt8X1Yuyl/Desktop-Designs-%3A-Healthcare-Consultation-(Community)?type=design&node-id=0-1&mode=design&t=VgPv59eyp8F6dTev-0>)
