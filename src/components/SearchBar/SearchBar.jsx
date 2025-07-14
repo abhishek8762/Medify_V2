@@ -38,7 +38,7 @@ export default function SearchBar({ list, filterList }) {
         <Button
           type="submit"
           variant="contained"
-          id="search-button"
+          id="searchBtn"
           size="large"
           startIcon={<SearchIcon />}
           sx={{ py: "15px", px: 8, flexShrink: 0 }}
